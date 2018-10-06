@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Mon site internet",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.26.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
